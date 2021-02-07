@@ -1,0 +1,24 @@
+{
+  "name": "social-app",
+  "version": "1.0.0",
+  "description": "social network application ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abdelrahman-Rabi/social-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abdelrahman-Rabi/social-app/issues"
+  },
+  "homepage": "https://github.com/Abdelrahman-Rabi/social-app#readme",
+  "dependencies": {
+    "apollo-server": "^2.19.2",
+    "graphql": "^15.5.0",
+    "mongoose": "^5.11.15"
+  }
+}
